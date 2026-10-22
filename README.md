@@ -1,0 +1,2 @@
+# vi-n-b-o-t-ng-tr-ng-b-y-hi-n-v-t-ph-ng-ng
+The error `SyntaxError: Unexpected token '&lt;'` happens because the file contained raw `&lt;!-- ... existing code ... -->` HTML diff comments or HTML tags directly inside a JavaScript `&lt;script>` block.  I will clean up the script block syntax so the code compiles and runs seamlessly.  I will now generate the corrected single-file HTML web application.
